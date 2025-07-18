@@ -22,18 +22,6 @@ LEARNING_RATE = 0.1
 def load_data_from_csv(filepath):
     """
     Extracts features and labels from a CSV file.
-
-    This function reads a comma-separated values (CSV) file, assuming it
-    contains a header row. Each subsequent row is parsed to separate the
-    feature columns from the final label column.
-
-    Args:
-        filepath (str): The path to the source CSV file.
-
-    Returns:
-        tuple: A tuple containing two elements:
-               1. A list of lists, where each inner list holds the features for a sample.
-               2. A list of integers representing the corresponding labels.
     """
     features = []
     labels = []
