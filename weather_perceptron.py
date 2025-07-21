@@ -1,5 +1,14 @@
 import csv
 import random
+# =======================================================
+# Author:      Ahmed Nafees
+# Email:       nafe3598@mylaurier.ca
+# Student #:   169053598
+# Date:        July 21, 2025
+# Course:      CP468: Artificial Intelligence
+# Assignment:  Assignment #2
+# Description: Implements the Perceptron model for Question 4.
+# =======================================================
 
 # =======================================================
 # SECTION 1: CONFIGURATION
